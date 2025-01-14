@@ -41,7 +41,7 @@ buttons.forEach(function (button) {
 });
 
 ```
-## project 2
+## Project 2
 
 ```javascript
 // project name "BMIcalculator"
@@ -66,7 +66,7 @@ form.addEventListener('submit', function (e) {
 
 ```
 
-## project 3
+## Project 3
 
 ```javascript
 // project name "Digital clock"
@@ -80,7 +80,7 @@ setInterval(function(){
 
 ```
 
-## project 4
+## Project 4
 
 ```javascript
 // project name "guess the number"
