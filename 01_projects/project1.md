@@ -9,7 +9,7 @@
 
 ```javascript
 
-//colour changer
+// project name "color changer"
 
 const buttons = document.querySelectorAll('.button');
 const body = document.querySelector('body');
@@ -44,6 +44,7 @@ buttons.forEach(function (button) {
 ## project 2
 
 ```javascript
+// project name "BMIcalculator"
 
 const form = document.querySelector('form');
 form.addEventListener('submit', function (e) {
@@ -65,9 +66,10 @@ form.addEventListener('submit', function (e) {
 
 ```
 
-## projct 3
+## project 3
 
 ```javascript
+// project name "Digital clock"
 
 const clock = document.getElementById("clock");
 
@@ -78,10 +80,10 @@ setInterval(function(){
 
 ```
 
-## project 3
+## project 4
 
 ```javascript
-
+// project name "guess the number"
 
 let randomNumber = parseInt(Math.random() * 100 + 1);
 
