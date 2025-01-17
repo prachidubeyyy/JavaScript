@@ -184,7 +184,7 @@ function newGame() {
 
 ```javascript
 
-// project name -> "digital clock"
+// project name -> "keyboard check"
 
 const insert = document.getElementById('insert');
 
